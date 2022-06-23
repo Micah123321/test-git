@@ -39,7 +39,7 @@ git log
 
 ```
 
-![](https://oss.xiaomao6.com/mkoss/img/Roaming/picgo/20211026--14-48-31-e7fbe4.png)
+![](https://oss.xiaomao6.com/mkoss/2022/06/24/0face635.png)
 
 如果嫌输出信息太多，看得眼花缭乱的，可以试试加上`--pretty=oneline`参数：
 
@@ -120,7 +120,7 @@ git push origin master
 
 配置ssh密钥用于git项目
 
-![](https://oss.xiaomao6.com/mkoss/2021/11/18/886fbb8b.png)
+![](https://oss.xiaomao6.com/mkoss/2022/06/24/89871a7f.png)
 
 具体加入操作看上方
 
